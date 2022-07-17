@@ -1,0 +1,4 @@
+User-agent: *
+Allow:/
+
+Sitemap: https://junseojjang.github.io/sitemap.xml
